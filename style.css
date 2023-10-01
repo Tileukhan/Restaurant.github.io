@@ -1,0 +1,27 @@
+
+.navbar-icon {
+    margin-left: 20px; 
+  }
+  .carousel-item {
+    height: 600px; 
+  }
+  .carousel img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+  }
+  .carousel-inner .carousel-item {
+    transition-duration: 0.2s; 
+  }
+
+  
+  .container img
+  {
+    height:100%;
+    width:100%;
+    object-fit:cover;
+  }
+ 
+ 
+  
